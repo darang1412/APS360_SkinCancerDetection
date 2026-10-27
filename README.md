@@ -7,6 +7,7 @@ This repository presents a deep learning pipeline for **automatic classification
 ---
 
 ## Table of Contents
+- [Demo](#demo)
 - [Project Overview](#project-overview)  
 - [Dataset Description](#dataset-description)  
 - [Preprocessing](#preprocessing)  
@@ -17,6 +18,11 @@ This repository presents a deep learning pipeline for **automatic classification
 - [Qualitative Results](#qualitative-results)  
 - [External Evaluation](#external-evaluation)  
 - [Ethical Considerations](#ethical-considerations)  
+
+---
+## Demo
+
+[Watch the demo video](https://youtu.be/Shx6gdzycaY)
 
 ---
 
